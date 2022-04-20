@@ -1,2 +1,0 @@
-# airfareprediction
-See README
